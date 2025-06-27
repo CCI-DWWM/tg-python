@@ -12,3 +12,4 @@ def test_answer():
 def test_prime():
     assert prime.is_prime(3)
     assert prime.is_prime(5)
+    assert prime.is_prime(6)
